@@ -1,6 +1,7 @@
-# Computer-Vision-repo
+# Hough Transform
 
-This repo contains Computer Vision projects
+This repo contains a from-scratch implementation of hough transform. 
+
 
 ## Project 1
 
