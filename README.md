@@ -10,6 +10,5 @@ This repo contains a from-scratch implementation of hough transform.
 
 ## Sample outputs
 
-![]("data\img01.jpg") 
-![]("data\img01.jpg")
+![](data/img01.jpg)
 
