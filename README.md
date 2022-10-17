@@ -10,5 +10,5 @@ This repo contains a from-scratch implementation of hough transform.
 
 ## Sample outputs
 
-![](data/img01.jpg)
+<img src="data/img01.jpg" alt="img01" width="200"/>
 
