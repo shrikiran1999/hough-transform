@@ -1,4 +1,5 @@
 # Hough Transform
+<img align="center" src="data/handout/ht.gif" width="500">
 
 This repo contains a from-scratch implementation of hough transform.
 
