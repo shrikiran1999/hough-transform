@@ -10,6 +10,19 @@ Steps in the imlementation:
 
 
 ## Sample output:
+Original image:
+
+<img src="data/img01.jpg" alt="img01" width="200"/>
+
 1. Edge detection with NMS
-<img src="data/img01.jpg" alt="img01" width="200"/> <img src="edgenms_results/01.png" alt="img01" width="200"/>
+
+ <img src="edgenms_results/01.png" alt="img01" width="200"/>
+
+2. Detected Hough lines
+
+<img src="hough_results/01.png" alt="img01" width="200"/> 
+
+3. Interesection of Hough lines with edges
+
+<img src="final_results/01.png" alt="img01" width="200"/>
 
