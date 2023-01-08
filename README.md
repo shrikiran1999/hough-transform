@@ -18,7 +18,7 @@ Original image:
 
 <img src="edgenms_results/01.png" alt="img01" width="400"/>
 
-2. Detected Hough lines
+2. Detected Hough lines using **Hough Transform**
 
 <img src="houglines_results/01.png" alt="img01" width="400"/> 
 
