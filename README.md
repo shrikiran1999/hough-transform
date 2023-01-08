@@ -15,7 +15,7 @@ Steps in the imlementation:
 
 ## Sample output:
 
-&nbsp;&nbsp;&nbsp;&nbsp;Original image:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Original image:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="data/img01.jpg" alt="img01" width="350"/>
 
