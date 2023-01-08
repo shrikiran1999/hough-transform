@@ -17,7 +17,7 @@ Steps in the imlementation:
 
 Original image:
 
-&nbsp;&nbsp;<img src="data/img01.jpg" alt="img01" width="350"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="data/img01.jpg" alt="img01" width="350"/>
 
 1. Edge detection with NMS
 
