@@ -20,9 +20,9 @@ Original image:
 
 2. Detected Hough lines
 
-<img src="hough_results/01.png" alt="img01" width="200"/> 
+<img src="houghlines_results/01.png" alt="img01" width="200"/> 
 
 3. Interesection of Hough lines with edges
 
-<img src="final_results/01.png" alt="img01" width="200"/>
+<img src="final_results/0.png" alt="img01" width="200"/>
 
