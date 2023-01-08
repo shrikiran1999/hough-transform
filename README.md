@@ -1,5 +1,5 @@
 # Hough Transform
-<img align="center" src="data/handout/ht.gif" width="800">
+<img align="center" src="data/handout/ht.gif" width="600">
 
 This repo contains a from-scratch implementation of hough transform. (Implemented as part of the Computer Vision course 16720B at CMU)
 Steps in the imlementation:
