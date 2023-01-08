@@ -7,9 +7,9 @@ Steps in the imlementation:
 
 1. **Edge detection with Non-Maximal Suppression(NMS)** (NMS is done to get sharper edges) 
 
-2. **Hough transform with Non-Maximal Supression**(to supress neighbouring hough lines) is applied on the edge magnitude image to identify the hough lines.
+2. **Hough transform with Non-Maximal Supression**(to supress neighbouring hough lines) is applied on the edge magnitude image to identify the hough lines
 
-3. Visualization of intersection of hough lines and edges
+3. Visualizing intersection of hough lines and edges
 
 
 
