@@ -5,6 +5,8 @@ import matplotlib.pyplot as plt
 
 from utils import get_parameters, Gauss2D, filter_image_vec
 
+image_list, constants = get_parameters()
+
 #----------------------------------------------------------------------
 def visualize(function, image_name, sigma):
     image_rgb = cv2.cvtColor(cv2.imread(image_name), cv2.COLOR_BGR2RGB)
