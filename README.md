@@ -3,7 +3,7 @@
 
 This repo contains a from-scratch implementation of hough transform. (Implemented as part of the Computer Vision course 16720B at CMU)
 
-Steps in the imlementation:
+Steps in the implementation:
 
 1. **Edge detection with Non-Maximal Suppression(NMS)** (NMS is done to get sharper edges) 
 
