@@ -1,7 +1,6 @@
 # Hough Transform
 <img align="center" src="data/handout/ht.gif" width="600", title="s">
-|:--:| 
-| *Space* |
+
 *Source: 16720B course materials, Prof.Kris Kitani(CMU)*
 
 This repo contains a from-scratch implementation of hough transform. (Implemented as part of the Computer Vision course 16720B at CMU)
