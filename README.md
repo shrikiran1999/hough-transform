@@ -3,7 +3,12 @@
 
 This repo contains a from-scratch implementation of hough transform. (Implemented as part of the Computer Vision course 16720B at CMU)
 
-Steps in the implementation:
+## Basic concept behind Hough-transform:
+
+If two edge points lay on the same line, their corresponding cosine curves will intersect each other on a specific (ρ, θ) pair. Thus, the Hough Transform algorithm detects lines by finding the (ρ, θ) pairs that have a number of intersections larger than a certain threshold.
+
+
+## Steps in the implementation:
 
 1. **Edge detection with Non-Maximal Suppression(NMS)** (NMS is done to get sharper edges) 
 
