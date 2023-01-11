@@ -31,3 +31,21 @@ Steps in the implementation:
 
 <img src="final_results/0.png" alt="img01" width="400"/>
 
+
+*Few other results:*
+
+<img src="final_results/1.png" alt="img01" width="400"/>
+
+<img src="final_results/2.png" alt="img01" width="400"/>
+
+<img src="final_results/3.png" alt="img01" width="400"/>
+
+<img src="final_results/4.png" alt="img01" width="400"/>
+
+<img src="final_results/5.png" alt="img01" width="400"/>
+
+<img src="final_results/6.png" alt="img01" width="400"/>
+
+<img src="final_results/7.png" alt="img01" width="400"/>
+
+
