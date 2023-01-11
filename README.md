@@ -1,6 +1,6 @@
 # Hough Transform
 <img align="center" src="data/handout/ht.gif" width="600">
-<caption align="center">Source: 16720B course materials, Prof.Kris Kitani(CMU)</caption>
+<caption align="center"> Source: 16720B course materials, Prof.Kris Kitani(CMU) </caption>
 
 
 
