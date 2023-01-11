@@ -1,9 +1,8 @@
 # Hough Transform
 <img align="center" src="data/handout/ht.gif" width="600" caption="s">
-<caption align="center"> Source: 16720B course materials, Prof.Kris Kitani(CMU) </caption>
 
 
-
+Source: 16720B course materials, Prof.Kris Kitani(CMU)
 This repo contains a from-scratch implementation of hough transform. (Implemented as part of the Computer Vision course 16720B at CMU)
 
 ## Basic concept behind Hough-transform:
