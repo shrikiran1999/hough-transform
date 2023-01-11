@@ -1,5 +1,6 @@
 # Hough Transform
-<img align="center" src="data/handout/ht.gif" width="600", caption="s">
+<img align="center" src="data/handout/ht.gif" width="600">
+<caption align="bottom">caption text</caption>
 
 *Source: 16720B course materials, Prof.Kris Kitani(CMU)*
 
