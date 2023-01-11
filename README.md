@@ -32,7 +32,7 @@ Steps in the implementation:
 <img src="final_results/0.png" alt="img01" width="400"/>
 
 
-*Few other results:*
+***Few other results:***
 
 <img src="final_results/1.png" alt="img01" width="400"/>
 
