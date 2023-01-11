@@ -1,5 +1,5 @@
 # Hough Transform
-<img align="center" src="data/handout/ht.gif" width="600" caption="s">
+<img align="center" src="data/handout/ht.gif" width="600">
 
 
 Source: 16720B course materials, Prof.Kris Kitani(CMU)
