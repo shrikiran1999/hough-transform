@@ -1,4 +1,4 @@
-# Hough Transform
+# Hough Transform for edge detection
 <img align="center" src="data/handout/ht.gif" width="600">
 
 
