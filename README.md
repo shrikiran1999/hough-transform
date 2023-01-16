@@ -5,7 +5,7 @@
 Source: 16720B course materials, Prof.Kris Kitani(CMU)
 This repo contains a from-scratch implementation of hough transform. (Implemented as part of the Computer Vision course 16720B at CMU)
 
-## Basic concept behind Hough-transform:
+## Concept:
 
 If two edge points lay on the same line, their corresponding cosine curves will intersect each other on a specific (ρ, θ) pair. Thus, the Hough Transform algorithm can detects lines by finding the (ρ, θ) pairs that have a number of intersections larger than a certain threshold.
 
