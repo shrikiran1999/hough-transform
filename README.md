@@ -7,7 +7,7 @@ This repo contains a from-scratch implementation of hough transform. (Implemente
 
 ## Concept:
 
-If two edge points lay on the same line, their corresponding cosine curves will intersect each other on a specific (ρ, θ) pair. Thus, the Hough Transform algorithm can detects lines by finding the (ρ, θ) pairs that have a number of intersections larger than a certain threshold.
+If two edge points lay on the same line, their corresponding cosine curves will intersect each other on a specific $(ρ, θ)$ pair. Thus, the Hough Transform algorithm detects lines by finding the $(ρ, θ)$ pairs that have a number of intersections larger than a certain threshold.
 
 
 ## Steps in the implementation:
