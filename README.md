@@ -1,8 +1,6 @@
 # Hough Transform for Edge Detection
 <img align="center" src="data/handout/ht.gif" width="600">
-
-
-Source: 16720B course materials, Prof. Kris Kitani(CMU).
+*GIF source: 16720B course materials, Prof. Kris Kitani (CMU)*
 
 
 This repo contains a from-scratch implementation of hough transform. (Implemented as part of the Computer Vision course 16720B at CMU)
@@ -12,13 +10,13 @@ This repo contains a from-scratch implementation of hough transform. (Implemente
 If two edge points lay on the same line, their corresponding cosine curves will intersect each other on a specific $(ρ, θ)$ pair. Thus, the Hough Transform algorithm detects lines by finding the $(ρ, θ)$ pairs that have a number of intersections larger than a certain threshold.
 
 
-## Steps in the implementation:
+## Repo structure:
 
-1. **Edge detection with Non-Maximal Suppression(NMS)** (NMS is done to get sharper edges) 
+1. Run ``` detect_edges.py ``` for **Edge detection with Non-Maximal Suppression(NMS)** (NMS is done to get sharper edges) 
 
-2. **Hough transform with Non-Maximal Supression**(to supress neighbouring hough lines) is applied on the edge magnitude image to identify the hough lines
+2. Run ``` detect_houghlines.py ``` for applying **Hough transform with Non-Maximal Supression**(to supress neighbouring hough lines) on the edge magnitude image to identify the hough lines
 
-3. Visualizing intersection of hough lines and edges
+3. Run ```visualize_ls.py ``` to visualize intersection of hough lines and edges
 
 
 
