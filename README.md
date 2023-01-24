@@ -1,6 +1,7 @@
 # Hough Transform for Edge Detection
 <img align="center" src="data/handout/ht.gif" width="600">
-*GIF source: 16720B course materials, Prof. Kris Kitani (CMU)*
+
+###### *GIF source: 16720B course materials, Prof. Kris Kitani (CMU)*
 
 
 This repo contains a from-scratch implementation of hough transform. (Implemented as part of the Computer Vision course 16720B at CMU)
@@ -41,7 +42,7 @@ If two edge points lay on the same line, their corresponding cosine curves will 
 
 
 
-## ***Few more results:***
+## ***Few more final results:***
 
 <img src="final_results/1.png" alt="img01" width="400"/>
 
